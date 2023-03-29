@@ -1,0 +1,15 @@
+.add_btn{
+  text-align: right;
+}
+
+.container{
+  overflow: auto;
+}
+
+.left_view h3{
+  font-size: 21px;
+}
+
+.rt_view h3{
+  font-size: 21px;
+}
