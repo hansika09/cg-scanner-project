@@ -32,7 +32,6 @@ router.post("/register", async(req, res) => {
     }
 })
 
-// get userdata
 router.get("/getdata", async(req, res) => {
     try {
         const userdata = await result.find();
